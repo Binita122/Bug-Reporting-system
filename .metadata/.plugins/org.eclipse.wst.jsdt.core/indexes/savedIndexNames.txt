@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\Bug Tracking System\Source Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3330034311.index
+1391675327.index
+2061559889.index
+3224062084.index
+3793528498.index
+3311090097.index
+4033254794.index
+4033254794.index

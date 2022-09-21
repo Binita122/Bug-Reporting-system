@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+ul#nav, ul#nav ul {
+   margin: 0;
+   padding: 0px;
+   list-style: none;
+   
+   }
+
+ul#nav  li {
+   position: relative;
+   float: left;
+   width:140px;
+   font-size: 15px;
+  
+   
+  
+}
+   
+#nav li ul {
+   position: absolute;
+   margin-left: -999em; /* hide menu from view */
+   top: 20;
+   left:0;
+}
+
+/* Styles for Menu Items */
+ul#nav  li a {
+   display: block;
+   text-decoration: none;
+   color:"black";
+   padding: 2px;
+   border: 1px solid #ccc;
+   
+   min-height:0;
+   }
+/* commented backslash mac hiding hack \*/
+* html ul#nav  li a {height:1%;   position:relative;}
+/* end hack */
+
+/* this sets all hovered lists to black */
+#nav li:hover a,#nav  li.over a,
+#nav li:hover li a:hover,#nav li.over li a:hover {
+   color: #fff;
+   background-color: black;}
+    
+/* set dropdown to default */
+#nav li:hover li a,#nav li.over li a {
+   color: black;
+   background-color:silver; 
+}
+#nav li ul li a { padding: 2px 2px; } /* Sub Menu Styles */
+#nav li:hover ul,#nav li.over ul {margin-left:0; } /* show menu*/

@@ -1,0 +1,61 @@
+import java.io.*;
+import java.sql.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+public class UpdateBugReport1 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		response.setContentType("text/html");
+		
+		Connection con;
+		PreparedStatement pstmt;
+		ServletContext sc = getServletContext();
+
+		String driver = sc.getInitParameter("drivername");
+		String url = sc.getInitParameter("url");
+		String password = sc.getInitParameter("password");
+		String user = sc.getInitParameter("username");
+		
+		int bugid=Integer.parseInt(request.getParameter("bugno"));
+		String tstatus = request.getParameter("tstatus");
+		String status = request.getParameter("status");
+		String bug_rectified = request.getParameter("bug_rectified");
+		String bug_name = request.getParameter("bug_name");
+		String bug_des = request.getParameter("Description");
+		String bug_type = request.getParameter("bug_type");
+		String bug_level = request.getParameter("bug_level");
+		
+		String priority = request.getParameter("priority");
+		String pname = request.getParameter("pname");
+		Part file = request.getPart("image");
+		String tester_code = request.getParameter("tester_code");
+		String bug_date = request.getParameter("bug_date");
+		String e_code = request.getParameter("e_code");
+		System.out.println(".......11........");
+		int i = 0;
+		try {
+			System.out.println(".......1........");
+			Class.forName(driver);
+	    	 con=DriverManager.getConnection(url,user,password);
+	    	
+	    		 pstmt=con.prepareStatement("update bug_report set bug_name=?,Description=?,bug_type=?,bug_level=?,priority=?,pname=?,image=?,testercode=?,bugdate=?,e_code=?,status=? status1=? bug_rectifieddate=? where bugno=");
+	    		 pstmt.setString(1,tstatus);
+	    		 pstmt.setString(2,status);
+	        	 pstmt.setString(3,bug_rectified);
+	        	 System.out.println("bug rect"+bug_rectified);
+	  
+	        	 pstmt.setInt(4,Integer.parseInt(request.getParameter("bugid")));
+	        	 i = pstmt.executeUpdate();	 
+	    	 
+	    	 if(i>0) {
+	    		 response.sendRedirect("./ViewBugs1.jsp?msg=Successfully Updated&bugid="+Integer.parseInt(request.getParameter("bugid"))); 
+	    	 }
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\Bug Tracking System\Source Code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4033254794.index
+\Bug Tracking System\src\main\java
+D:\Bug Tracking System\Source Code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3384493374.index
+\Bug Tracking System\src\main\java
+D:\Bug Tracking System Project in Java\Source Code\DTS\BTS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2485878017.index
+\example\WEB-INF\src

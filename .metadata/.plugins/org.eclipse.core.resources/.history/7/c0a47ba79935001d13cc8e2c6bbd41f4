@@ -1,0 +1,47 @@
+import java.io.*;
+import java.sql.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+public class UpdateDepartment extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String deptname = request.getParameter("deptname");
+		String loc = request.getParameter("location");
+		String deptno = request.getParameter("deptno");
+		
+		Connection con;
+    	PreparedStatement pstmt;
+    	ServletContext sc=getServletContext();
+		String driver=sc.getInitParameter("drivername");
+    	String url=sc.getInitParameter("url");
+    	String password=sc.getInitParameter("password");
+    	String user=sc.getInitParameter("username");
+	    response.setContentType("text/html");
+	    
+	    try {
+	    	System.out.println("...........1..........");
+	    	Class.forName(driver);
+	    	
+	    	con = DriverManager.getConnection(url, user, password);
+	    	System.out.println("........2.......");
+	    	System.out.println(deptno);
+	    	pstmt = con.prepareStatement("update department_details set dept_name=?,dept_loc=? where dept_no=?");
+	    	
+	    	pstmt.setString(1, deptname);
+	    	pstmt.setString(2, loc);
+	    	pstmt.setString(3, deptno);
+	    	pstmt.execute();
+	    	
+	    	response.sendRedirect("UpdateDepartment.jsp");
+	    	
+	    }catch(SQLIntegrityConstraintViolationException e) {
+    		out.print("Duplicate Entry");
+	    }catch(Exception ex) {
+	    	ex.printStackTrace();
+	    }
+		
+	}
+
+}

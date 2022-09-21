@@ -1,0 +1,16 @@
+127.0.0.1 - - [18/Apr/2022:07:56:48 +0545] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:56:48 +0545] "GET /Bug_Tracking_System/Login.html HTTP/1.1" 200 1061
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:56:48 +0545] "GET /Bug_Tracking_System/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:33 +0545] "GET /Bug_Tracking_System/Login?userid=seeta&password=nepal%40123&login=Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:33 +0545] "GET /Bug_Tracking_System/DeveloperHome.jsp HTTP/1.1" 404 747
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:33 +0545] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:41 +0545] "GET /Bug_Tracking_System/Home.jsp HTTP/1.1" 200 4685
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:41 +0545] "GET /Bug_Tracking_System/Images/TestTrack_Pro.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:57:41 +0545] "GET /Bug_Tracking_System/Images/radar.gif HTTP/1.1" 200 7375
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:07 +0545] "GET /Bug_Tracking_System/AddDepartment.jsp HTTP/1.1" 200 4878
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:10 +0545] "GET /Bug_Tracking_System/ViewDepartment.jsp HTTP/1.1" 200 6580
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:10 +0545] "GET /Bug_Tracking_System/Images/validate.js HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:12 +0545] "GET /Bug_Tracking_System/UpdateDepartment.jsp HTTP/1.1" 200 3126
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:13 +0545] "GET /Bug_Tracking_System/Images/validate.js HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:18 +0545] "GET /Bug_Tracking_System/Logout.jsp HTTP/1.1" 200 694
+0:0:0:0:0:0:0:1 - - [18/Apr/2022:07:58:20 +0545] "GET /Bug_Tracking_System/Home.jsp HTTP/1.1" 200 4684

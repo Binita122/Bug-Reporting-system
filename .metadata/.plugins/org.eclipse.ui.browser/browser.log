@@ -1,0 +1,214 @@
+
+Aug 11, 2022 08:53:18.566 NEW SESSION
+Aug 11, 2022 08:53:18.566 [1936:11420:0811/085318.564:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 11, 2022 08:53:21.49 [1936:7312:0811/085321.049:ERROR:device_event_log_impl.cc(214)] [08:53:21.049] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 08:53:21.51 [1936:7312:0811/085321.051:ERROR:device_event_log_impl.cc(214)] [08:53:21.050] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 08:53:21.472 [1936:9380:0811/085321.472:ERROR:gcm_store_impl.cc(650)] LevelDB remove failed: NotFound: 
+Aug 11, 2022 08:53:21.473 [1936:11824:0811/085321.472:ERROR:mcs_client.cc(527)] GCM Update failed!
+Aug 11, 2022 08:57:21.495 [12732:5492:0811/085721.495:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 11, 2022 08:57:23.835 [12732:12716:0811/085723.835:ERROR:device_event_log_impl.cc(214)] [08:57:23.835] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 08:57:23.837 [12732:12716:0811/085723.837:ERROR:device_event_log_impl.cc(214)] [08:57:23.837] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 08:58:21.683 [12732:2812:0811/085821.683:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 11, 2022 09:25:29.231 [12732:12716:0811/092529.231:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+
+Aug 11, 2022 17:23:37.715 NEW SESSION
+Aug 11, 2022 17:23:37.716 [13760:13284:0811/172337.714:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 11, 2022 17:23:40.147 [13760:8916:0811/172340.146:ERROR:device_event_log_impl.cc(214)] [17:23:40.146] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 17:23:40.148 [13760:8916:0811/172340.148:ERROR:device_event_log_impl.cc(214)] [17:23:40.148] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 17:24:37.829 [13760:11144:0811/172437.829:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 13, 2022 09:55:43.119 NEW SESSION
+Aug 13, 2022 09:55:43.119 [9732:12244:0813/095543.119:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 13, 2022 09:55:45.809 [9732:2408:0813/095545.809:ERROR:device_event_log_impl.cc(214)] [09:55:45.798] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 09:55:45.809 [9732:2408:0813/095545.809:ERROR:device_event_log_impl.cc(214)] [09:55:45.798] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 09:56:43.318 [9732:2276:0813/095643.317:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 13, 2022 11:24:45.275 [9732:2408:0813/112445.259:ERROR:device_event_log_impl.cc(214)] [11:24:45.250] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 13, 2022 11:48:27.106 [9732:5128:0813/114827.106:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 13, 2022 11:48:56.832 [9732:5128:0813/114856.831:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 13, 2022 12:44:58.724 [9732:5128:0813/124458.724:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 13, 2022 15:42:19.962 [9732:5128:0813/154219.962:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Aug 13, 2022 15:42:20.509 [9732:5044:0813/154220.509:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 14, 2022 08:03:59.847 NEW SESSION
+Aug 14, 2022 08:03:59.847 [10904:9808:0814/080359.836:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 14, 2022 08:04:02.546 [10904:10932:0814/080402.545:ERROR:device_event_log_impl.cc(214)] [08:04:02.546] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 08:04:02.546 [10904:10932:0814/080402.546:ERROR:device_event_log_impl.cc(214)] [08:04:02.546] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 08:04:02.651 [10904:4760:0814/080402.650:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 08:04:29.931 [10904:4760:0814/080429.930:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 08:05:00.173 [10904:9132:0814/080500.173:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 14, 2022 08:05:16.178 [10904:4760:0814/080516.178:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 08:07:10.655 [10904:4760:0814/080710.654:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 12:57:41.431 [10904:4760:0814/125741.431:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 12:57:42.853 [10904:10932:0814/125742.853:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+
+Aug 17, 2022 10:52:32.158 NEW SESSION
+Aug 17, 2022 10:52:32.159 [8344:6272:0817/105232.152:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 17, 2022 10:52:32.656 [8344:8672:0817/105232.654:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Aug 17, 2022 10:52:34.986 [8344:8672:0817/105234.986:ERROR:device_event_log_impl.cc(214)] [10:52:34.986] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 10:52:34.988 [8344:8672:0817/105234.988:ERROR:device_event_log_impl.cc(214)] [10:52:34.988] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 10:53:32.622 [8344:5364:0817/105332.620:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 17, 2022 13:29:05.243 [8344:8672:0817/132905.243:ERROR:device_event_log_impl.cc(214)] [13:29:05.250] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 17, 2022 14:51:38.157 [13188:11348:0817/145138.157:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 17, 2022 14:51:40.615 [13188:620:0817/145140.614:ERROR:device_event_log_impl.cc(214)] [14:51:40.614] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 14:51:40.616 [13188:620:0817/145140.616:ERROR:device_event_log_impl.cc(214)] [14:51:40.615] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 14:52:38.427 [13188:4400:0817/145238.427:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 17, 2022 15:42:19.522 [13188:620:0817/154219.521:ERROR:device_event_log_impl.cc(214)] [15:42:19.521] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Aug 17, 2022 18:47:21.382 NEW SESSION
+Aug 17, 2022 18:47:21.382 [620:19600:0817/184721.382:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 17, 2022 18:47:23.851 [620:15460:0817/184723.851:ERROR:device_event_log_impl.cc(214)] [18:47:23.842] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 18:47:23.853 [620:15460:0817/184723.853:ERROR:device_event_log_impl.cc(214)] [18:47:23.844] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 17, 2022 18:48:21.584 [620:21396:0817/184821.584:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 25, 2022 14:40:32.733 NEW SESSION
+Aug 25, 2022 14:40:32.733 [12968:6016:0825/144032.724:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 25, 2022 14:40:33.01 [12968:11612:0825/144033.001:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Aug 25, 2022 14:40:36.300 [12968:11612:0825/144036.299:ERROR:device_event_log_impl.cc(214)] [14:40:36.298] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 25, 2022 14:40:36.300 [12968:11612:0825/144036.300:ERROR:device_event_log_impl.cc(214)] [14:40:36.299] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 25, 2022 14:41:32.974 [12968:10596:0825/144132.973:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 25, 2022 15:16:17.344 [4976:1196:0825/151617.343:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Aug 25, 2022 15:16:21.119 [4976:7416:0825/151621.118:ERROR:device_event_log_impl.cc(214)] [15:16:21.118] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 25, 2022 15:16:21.120 [4976:7416:0825/151621.119:ERROR:device_event_log_impl.cc(214)] [15:16:21.119] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 05, 2022 15:44:42.987 NEW SESSION
+Sep 05, 2022 15:44:42.987 [3528:9468:0905/154442.985:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 05, 2022 15:44:43.222 [3528:12660:0905/154443.222:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 05, 2022 15:44:45.407 [3528:12660:0905/154445.407:ERROR:device_event_log_impl.cc(214)] [15:44:45.408] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 15:44:45.409 [3528:12660:0905/154445.409:ERROR:device_event_log_impl.cc(214)] [15:44:45.409] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 15:45:43.201 [3528:12268:0905/154543.201:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 05, 2022 23:54:43.870 [15512:9444:0905/235443.870:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 05, 2022 23:54:46.254 [15512:15376:0905/235446.254:ERROR:device_event_log_impl.cc(214)] [23:54:46.253] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 23:54:46.255 [15512:15376:0905/235446.255:ERROR:device_event_log_impl.cc(214)] [23:54:46.255] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 23:55:44.88 [15512:15620:0905/235544.088:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 05, 2022 23:57:57.288 [15320:17396:0905/235757.288:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 05, 2022 23:58:00.155 [15320:6352:0905/235800.155:ERROR:device_event_log_impl.cc(214)] [23:58:00.155] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 23:58:00.155 [15320:6352:0905/235800.155:ERROR:device_event_log_impl.cc(214)] [23:58:00.156] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 05, 2022 23:58:57.480 [15320:15528:0905/235857.480:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 06, 2022 24:05:01.163 [15320:15940:0906/000501.163:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 24:05:30.454 [15320:15940:0906/000530.454:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 24:05:58.119 [15320:15940:0906/000558.119:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 06, 2022 24:06:07.240 [15320:15940:0906/000607.224:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 06, 2022 24:06:09.245 [15320:15940:0906/000609.244:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:10:53.211 [15320:15940:0906/011053.210:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:11:21.594 [15320:15940:0906/011121.593:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:12:18.901 [15320:15940:0906/011218.900:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:14:00.12 [15320:15940:0906/011400.011:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:17:43.755 [15320:15940:0906/011743.754:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2022 01:20:03.602 [15320:15940:0906/012003.602:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 06, 2022 01:20:14.42 [15320:15940:0906/012014.042:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 06, 2022 08:40:50.430 [15320:13608:0906/084050.419:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 06, 2022 09:01:53.360 [15320:6352:0906/090153.360:ERROR:interface_endpoint_client.cc(689)] Message 5 rejected by interface blink.mojom.WidgetHost
+Sep 06, 2022 09:05:33.582 [15320:6352:0906/090533.581:ERROR:interface_endpoint_client.cc(689)] Message 5 rejected by interface blink.mojom.WidgetHost
+Sep 06, 2022 21:20:38.514 [11528:17260:0906/212038.513:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 06, 2022 21:20:38.758 [11528:16884:0906/212038.758:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 06, 2022 21:20:40.917 [11528:16884:0906/212040.917:ERROR:device_event_log_impl.cc(214)] [21:20:40.916] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 21:20:40.918 [11528:16884:0906/212040.918:ERROR:device_event_log_impl.cc(214)] [21:20:40.918] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 21:21:05.757 [7548:14480:0906/212105.756:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 06, 2022 21:21:08.389 [7548:15196:0906/212108.389:ERROR:device_event_log_impl.cc(214)] [21:21:08.389] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 21:21:08.390 [7548:15196:0906/212108.389:ERROR:device_event_log_impl.cc(214)] [21:21:08.390] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 21:22:05.940 [7548:12248:0906/212205.940:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 06, 2022 23:00:37.171 [16292:4784:0906/230037.171:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 06, 2022 23:00:40.416 [16292:8852:0906/230040.416:ERROR:device_event_log_impl.cc(214)] [23:00:40.415] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 23:00:40.417 [16292:8852:0906/230040.417:ERROR:device_event_log_impl.cc(214)] [23:00:40.416] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 06, 2022 23:01:37.337 [16292:4492:0906/230137.337:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 07, 2022 08:22:11.71 NEW SESSION
+Sep 07, 2022 08:22:11.71 [4104:10236:0907/082211.068:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 07, 2022 08:22:13.993 [4104:7924:0907/082213.993:ERROR:device_event_log_impl.cc(214)] [08:22:13.992] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 07, 2022 08:22:13.995 [4104:7924:0907/082213.995:ERROR:device_event_log_impl.cc(214)] [08:22:13.994] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 07, 2022 08:23:11.419 [4104:1352:0907/082311.419:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 07, 2022 08:33:50.580 [4104:9132:0907/083350.580:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Sep 07, 2022 08:33:52.286 [4104:9132:0907/083352.286:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:37:41.673 [4104:9132:0907/083741.673:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:38:10.187 [4104:9132:0907/083810.187:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:39:07.93 [4104:9132:0907/083907.093:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:40:32.761 [4104:9132:0907/084032.761:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:43:58.11 [4104:9132:0907/084358.011:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:51:29.195 [4104:9132:0907/085129.194:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 07, 2022 08:52:12.767 [4104:9132:0907/085212.766:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Sep 07, 2022 08:56:03.210 [4104:9132:0907/085603.209:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:56:26.362 [4104:9132:0907/085626.358:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:57:22.532 [4104:9132:0907/085722.532:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 08:58:53.949 [4104:9132:0907/085853.948:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 09:02:50.05 [4104:9132:0907/090250.005:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 07, 2022 09:02:52.53 [4104:9132:0907/090252.053:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 10:23:53.709 [4104:9132:0907/102353.708:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -103
+Sep 07, 2022 10:23:55.736 [4104:9132:0907/102355.735:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2022 13:22:57.838 [4104:5784:0907/132257.838:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 08, 2022 17:24:47.734 NEW SESSION
+Sep 08, 2022 17:24:47.734 [2304:3756:0908/172447.734:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 08, 2022 17:24:47.987 [2304:7024:0908/172447.987:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 08, 2022 17:24:50.275 [2304:7024:0908/172450.274:ERROR:device_event_log_impl.cc(214)] [17:24:50.274] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 08, 2022 17:24:50.277 [2304:7024:0908/172450.277:ERROR:device_event_log_impl.cc(214)] [17:24:50.277] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 08, 2022 17:25:47.977 [2304:1612:0908/172547.977:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 08, 2022 22:54:23.227 NEW SESSION
+Sep 08, 2022 22:54:23.227 [9020:10124:0908/225423.225:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 08, 2022 22:54:26.128 [9020:3840:0908/225426.128:ERROR:device_event_log_impl.cc(214)] [22:54:26.128] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 08, 2022 22:54:26.130 [9020:3840:0908/225426.130:ERROR:device_event_log_impl.cc(214)] [22:54:26.130] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 08, 2022 22:55:23.555 [9020:10732:0908/225523.555:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 09, 2022 07:15:26.212 NEW SESSION
+Sep 09, 2022 07:15:26.212 [956:12128:0909/071526.209:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 09, 2022 07:15:29.273 [956:10912:0909/071529.272:ERROR:device_event_log_impl.cc(214)] [07:15:29.272] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 09, 2022 07:15:29.274 [956:10912:0909/071529.273:ERROR:device_event_log_impl.cc(214)] [07:15:29.273] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 09, 2022 07:16:26.575 [956:10648:0909/071626.572:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 09, 2022 07:21:04.56 [956:8196:0909/072104.055:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:22:44.414 [956:8196:0909/072244.414:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:34:08.935 [956:8196:0909/073408.935:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:34:32.211 [956:8196:0909/073432.211:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:35:18.419 [956:8196:0909/073518.419:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:39:34.85 [956:8196:0909/073934.085:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:40:37.769 [956:8196:0909/074037.769:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 07:41:29.720 [956:8196:0909/074129.720:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2022 08:05:57.935 [956:8196:0909/080557.935:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 08:08:46.692 [12588:8024:0909/080846.692:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 09, 2022 08:08:50.375 [12588:12152:0909/080850.375:ERROR:device_event_log_impl.cc(214)] [08:08:50.375] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 09, 2022 08:08:50.376 [12588:12152:0909/080850.375:ERROR:device_event_log_impl.cc(214)] [08:08:50.375] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 09, 2022 08:09:47.161 [12588:13032:0909/080947.160:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 09, 2022 08:25:02.481 [12588:12328:0909/082502.481:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2022 08:26:10.654 [12588:12328:0909/082610.653:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Sep 11, 2022 08:05:39.904 NEW SESSION
+Sep 11, 2022 08:05:39.904 [5376:12100:0911/080539.898:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 11, 2022 08:05:40.64 [5376:5428:0911/080540.064:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 11, 2022 08:05:42.251 [5376:5428:0911/080542.251:ERROR:device_event_log_impl.cc(214)] [08:05:42.251] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 11, 2022 08:05:42.252 [5376:5428:0911/080542.252:ERROR:device_event_log_impl.cc(214)] [08:05:42.252] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 11, 2022 08:06:40.38 [5376:8952:0911/080640.038:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 11, 2022 11:42:08.382 [5376:5428:0911/114208.382:ERROR:device_event_log_impl.cc(214)] [11:42:08.381] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 11, 2022 13:10:18.757 [5376:5048:0911/131018.756:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 11, 2022 19:13:39.310 [5376:5480:0911/191339.310:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 16, 2022 13:31:52.622 NEW SESSION
+Sep 16, 2022 13:31:52.623 [4156:7104:0916/133152.612:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 16, 2022 13:31:53.336 [4156:4148:0916/133153.335:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 16, 2022 13:31:56.526 [4156:4148:0916/133156.525:ERROR:device_event_log_impl.cc(214)] [13:31:56.526] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:31:56.527 [4156:4148:0916/133156.526:ERROR:device_event_log_impl.cc(214)] [13:31:56.526] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:32:11.504 [4648:9252:0916/133211.503:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 16, 2022 13:32:14.629 [4648:4620:0916/133214.629:ERROR:device_event_log_impl.cc(214)] [13:32:14.629] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:32:14.632 [4648:4620:0916/133214.632:ERROR:device_event_log_impl.cc(214)] [13:32:14.632] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:33:12.04 [4648:8200:0916/133312.004:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 16, 2022 13:45:01.604 [10804:2484:0916/134501.604:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 16, 2022 13:45:04.426 [10804:9492:0916/134504.426:ERROR:device_event_log_impl.cc(214)] [13:45:04.425] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:45:04.429 [10804:9492:0916/134504.429:ERROR:device_event_log_impl.cc(214)] [13:45:04.428] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 16, 2022 13:46:02.32 [10804:4916:0916/134602.031:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 16, 2022 14:00:44.16 [10804:5696:0916/140044.016:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 16, 2022 14:01:05.326 [10804:5696:0916/140105.325:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 16, 2022 14:01:52.859 [10804:5696:0916/140152.858:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 16, 2022 14:03:29.955 [10804:5696:0916/140329.955:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 16, 2022 14:06:40.277 [10804:5696:0916/140640.276:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 16, 2022 14:06:55.190 [10804:5696:0916/140655.190:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -103
+Sep 16, 2022 14:06:56.400 [10804:9492:0916/140656.400:ERROR:device_event_log_impl.cc(214)] [14:06:56.399] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 16, 2022 14:06:57.324 [10804:5696:0916/140657.323:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 16, 2022 20:40:08.859 [10804:8812:0916/204008.359:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Sep 19, 2022 07:52:26.196 NEW SESSION
+Sep 19, 2022 07:52:26.196 [5872:2884:0919/075226.196:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-103831436099292125607
+Sep 19, 2022 07:52:26.601 [5872:2192:0919/075226.601:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials missing).
+Sep 19, 2022 07:52:29.923 [5872:2192:0919/075229.923:ERROR:device_event_log_impl.cc(214)] [07:52:29.922] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 19, 2022 07:52:29.928 [5872:2192:0919/075229.928:ERROR:device_event_log_impl.cc(214)] [07:52:29.928] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 19, 2022 07:53:14.512 [5872:13764:0919/075314.512:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 19, 2022 07:53:26.570 [5872:7712:0919/075326.569:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 19, 2022 07:53:40.764 [5872:13764:0919/075340.763:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 19, 2022 07:54:31.96 [5872:13764:0919/075431.096:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

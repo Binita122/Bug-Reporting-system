@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/Apr/2022:11:48:22 +0545] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:11:48:22 +0545] "GET /Bug_Tracking_System/Login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:11:48:22 +0545] "GET /Bug_Tracking_System/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:11:48:22 +0545] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:12:14:13 +0545] "GET /Bug_Tracking_System/Header.jsp HTTP/1.1" 200 359
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:12:14:13 +0545] "GET /Bug_Tracking_System/Images/Header.png HTTP/1.1" 404 796
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:13:14:43 +0545] "GET /Bug_Tracking_System/Header.jsp HTTP/1.1" 500 3123
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:15:24:37 +0545] "GET /Bug_Tracking_System/Footer.jsp HTTP/1.1" 200 228
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:15:24:42 +0545] "GET /Bug_Tracking_System/Footer.jsp HTTP/1.1" 200 228
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:15:25:17 +0545] "GET /Bug_Tracking_System/Footer.jsp HTTP/1.1" 200 233

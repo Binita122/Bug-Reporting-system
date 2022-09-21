@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Bug Tracking System\Source Code\.metadata\.plugins\org.eclipse.jdt.core
+3741046560.index
+935907527.index
+2061559889.index
+1865797976.index
+3293788073.index
+2548783521.index

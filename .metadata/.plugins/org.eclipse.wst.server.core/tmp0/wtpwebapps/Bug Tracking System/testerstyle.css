@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+body {
+  font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+  font-size:13px;
+ 
+}
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; 
+	font-size:13px;
+	FONT-WEIGHT: bold;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size:13px;
+}
+
+INPUT {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12pt; 
+	FONT-FAMILY: Verdana,Arial,helvetica,sans-serif;
+}
+TEXTAREA {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12pt; 
+	FONT-FAMILY: Verdana,Arial,helvetica,sans-serif;
+	BACKGROUND-COLOR: #D3D3D3;
+	COLOR: #000000;
+}
+SELECT,OPTION,LI {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 11pt; 
+	FONT-FAMILY: Verdana,Arial,helvetica,sans-serif;
+}
+#btn{
+background-color: #F6EFA1;
+padding: 3px 5px;
+  margin: 4px 0;
+}
+
+#btn2{
+background-color: Red;
+padding: 3px 5px;
+  margin: 4px 0;
+}
+
+label{
+	FONT-SIZE:13px;
+}
